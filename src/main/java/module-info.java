@@ -1,4 +1,5 @@
-module edu.miracosta.cs112.lab07 {
+module edu.miracosta.cs.lab
+{
     requires javafx.controls;
     requires javafx.fxml;
 
